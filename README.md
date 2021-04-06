@@ -7,7 +7,7 @@ To work correctly with Python´s strings and without any error, these interprete
 
 This strings - str() - are delimited among the uses of single or double quotes.
 
-<h2>-EXAMPLE OF STRING AND THE USES OF THE QUOTES-</h2>
+<h2>-EXAMPLE Nº 1 OF STRING AND THE USES OF THE QUOTES-</h2>
 
     my_year = 'This year 2021 will be my year!'
 
@@ -26,6 +26,8 @@ And then?... what would be able to be the problem or the contraposittion here?
 <strong>Let´s see what to do but first let´s see an examples of the different cases.</strong>
 
 The secret is don´t duplicate the same quotes among the string data type text. 
+
+<h2>-EXAMPLE Nº 2 OF STRING AND THE USES OF THE QUOTES-</h2>
 
 
     sentence = 'The quick brown fox jumped over the lazy dog'
